@@ -2,7 +2,7 @@ Welcome to the public notes of Daniel Tariq Metcalfe (aka *Homostellaris*).
 # What will you find here?
 Here you will find anything that I feel may be useful or thought-provoking to others.
 
-Or more likely you will find subjective, nonsense designed to satisfy my own self-satisfaction and OCD desire to aimlessly document things I mistakenly believe I have 'figured out'.
+Or more likely you will find subjective nonsense designed to satisfy my own self-satisfaction and OCD desire to aimlessly document things I mistakenly believe I have 'figured out'.
 
 Either way, this site may include:
 - Ideas
