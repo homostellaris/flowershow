@@ -5,4 +5,9 @@ export default {
 	authorLogo: "/images/profile-photo-colour.jpg",
 	domain: "https://homostellaris.io/",
 	showSidebar: true,
+	analyticsConfig: {
+		plausibleAnalytics: {
+			plausibleDataDomain: "notes.homostellaris.io",
+		}
+	}	
 };
