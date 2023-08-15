@@ -2,11 +2,10 @@
 
 I'm a software product creator who aspires to build things that are both useful and beautiful.
 
-You can checkout my pinned repositories to see my work but here are a few quick links.
+You can checkout my [GitHub profile](https://github.com/homostellaris) to see my work but here are a few quick links.
 
 - [Starfocus](https://www.starfocus.app/)
 - [Schedule Your Social](https://scheduleyour.social/)
-- [People Not Platforms](https://peoplenotplatforms.com/)
 - [Seshy](https://chrome.google.com/webstore/detail/seshy/noeieddjehppejohbbchbcmheecaneac?hl=en-GB)
 
 # Personality
@@ -41,9 +40,9 @@ I believe that humanity's potential in such a future is far greater than we can 
 
 My mission is one that is shared by many others.
 
-> Improve the probability that humanity becomes multiplanetary
+> Improve the probability that humanity becomes multi-planetary
 
-It is entirely possilbe that we are the only intelligent species ever to have existed and furthermore that our origin of life is the only one there will be. Many consider this unlikely given the vastness of the observable universe but the fact is we have no evidence of alien intelligence thus far and our understanding of the processes that led to our own origin of life are limited. We cannot rule out this possiblity and it would therefore be wise to hedge against it especially given the potential consequences...
+It is entirely possible that we are the only intelligent species ever to have existed and furthermore that our origin of life is the only one there will be. Many consider this unlikely given the vastness of the observable universe but the fact is we have no evidence of alien intelligence thus far and our understanding of the processes that led to our own origin of life are limited. We cannot rule out this possibility and it would therefore be wise to hedge against it especially given the potential consequences...
 
 If we are truly unique then we have a moral duty to preserve the 'light of consciousness'. We would not only be saving ourselves but also every other species that already exist and (more importantly) every species that _could_ ever exist. In other words, we may be the de facto stewards of life in the universe.
 
