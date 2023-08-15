@@ -5,4 +5,5 @@ export default {
 	authorLogo: "/assets/Profile photo - colour.jpg",
 	domain: "https://homostellaris.io/",
 	navLinks: [{ href: "/about", name: "About" }],
+	showSidebar: true,
 };
