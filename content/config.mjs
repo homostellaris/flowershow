@@ -1,9 +1,8 @@
 export default {
-	title: "Homostellaris Notes",
+	title: "Homostellaris notes",
 	description: "The digital garden of Daniel Metcalfe (aka Homostellaris)",
 	author: "Daniel Tariq Metcalfe",
-	authorLogo: "/assets/Profile photo - colour.jpg",
+	authorLogo: "/images/profile-photo-colour.jpg",
 	domain: "https://homostellaris.io/",
-	navLinks: [{ href: "/about", name: "About" }],
 	showSidebar: true,
 };
