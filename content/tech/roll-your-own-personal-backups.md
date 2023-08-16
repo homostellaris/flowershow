@@ -10,7 +10,7 @@ Feeling somewhat disillusioned, I discovered an excellent command-line tool call
 
 I have a desktop PC running Windows that I also use as a Plex Media Server and the 'master' place to store all my precious data. I used Task Manager and a Powershell script to setup a scheduled task to backup my files to a Restic repo in Google Cloud storage and email me the resulting logs every morning.
 # Egress fees
-I felt very smug that I had managed to roll my own simple but reliable personal backup system that also seemed very cheap - I was paying about $0.69/month to store ~300GB in coldline storage buckets compared to about $8/month with commercial offerings.
+I felt very smug that I had managed to roll my own simple but reliable personal backup system that also seemed very cheap - I was paying about $0.69/month to store 300GB in coldline storage buckets compared to about $8/month with commercial offerings.
 
 However I'd foolishly overlooked how much it would cost me to download my backup in the case of a disaster. I don't mean the read fees for using a coldline bucket instead of a standard bucket. I mean the general egress fees for all data transfer out of Google Cloud Storage.
 
