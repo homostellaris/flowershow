@@ -8,7 +8,7 @@ After CrashPlan I spent a while Googling alternative solutions and settled on Sp
 # Restic
 Feeling somewhat disillusioned, I discovered an excellent command-line tool called [Restic](https://restic.net/). It would require more of my own effort to get something usable with this but by this point I was OK with that.
 
-I have a desktop PC running Windows that I also use as a Plex Media Server and the 'master' place to store all my precious data. I used Task Manager and a Powershell script to setup a scheduled task to backup my files to a Restic repo in Google Cloud storage and email me the resulting logs every morning. You can see the files I use for this in [this GitHub repo](https://github.com/homostellaris/backup).
+I have a desktop PC running Windows that I also use as a Plex Media Server and the 'master' place to store all my precious data. I used Task Manager and a Powershell script to setup a scheduled task to backup my files to a Restic repo in Google Cloud storage and email me the resulting logs every morning.
 # Egress fees
 I felt very smug that I had managed to roll my own simple but reliable personal backup system that also seemed very cheap - I was paying about $0.69/month to store ~300GB in coldline storage buckets compared to about $8/month with commercial offerings.
 
