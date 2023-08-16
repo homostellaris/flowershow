@@ -18,7 +18,7 @@ It was going to cost me about $100 to download those 300GB if I ever needed to. 
 
 In retrospect this makes complete sense and I don't blame cloud providers for doing this - in fact its smart. But it did make GCP entirely unsuitable for personal backups in my opinion.
 # Sia
-Now my entirely unpractical and convoluted plan is to use this as an excuse to explore the world of decentralised apps & crypto be renting some storage on the Sia network and updating my using that as the backend for Restic instead.
+Now my entirely unpractical and convoluted plan is to use this as an excuse to explore the world of decentralised apps & crypto by renting some storage on the Sia network and updating my using that as the backend for Restic instead.
 
 I already discovered a gotcha with this as the minimum 'block' size on the Sia network is 40MB which means that you end up being charged significantly for lots of small files you're likely to find in a personal backup.
 
