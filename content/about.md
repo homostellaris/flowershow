@@ -102,7 +102,6 @@ Ever since I first saw [Saturn](https://en.wikipedia.org/wiki/Saturn) in my ency
 
 ![[saturn.jpeg]]
 
-
 # Desert island mix
 
 I really enjoyed making [this playlist](https://open.spotify.com/playlist/52EVyR1t9EgXrn5aBu59IT?si=aa282cc307d9491a), it reads almost like an emotional map of my life 🖤
