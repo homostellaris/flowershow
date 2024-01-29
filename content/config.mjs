@@ -9,5 +9,10 @@ export default {
 		plausibleAnalytics: {
 			plausibleDataDomain: "notes.homostellaris.io",
 		}
-	}	
+	},
+  navLinks: [
+    { href: "/about", name: "About" },
+    { href: "/blog", name: "Blog" },
+    { href: "/_all", name: "All" }
+  ],
 };
