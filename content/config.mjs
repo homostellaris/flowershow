@@ -1,3 +1,7 @@
+
+/**
+ * @type {import("../config/siteConfig").UserConfig}
+ */
 export default {
 	title: "Homostellaris notes",
 	description: "The digital garden of Daniel Metcalfe (aka Homostellaris)",
