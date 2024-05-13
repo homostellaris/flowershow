@@ -17,7 +17,10 @@
 	1. Provide actionable info right away
 	2. Make sure you have a clean design
 5. Get backlinks
-	1. Find a broken link on a website that you would like to link to you and suggest your site as a replacement to the website owners
+	1. Find a broken link on a website that you would like to link to and suggest your site as a replacement to the website owners
 		1. Can use Check My Links extension
 		2. Don't send the same email to everyone though
 6. Use unique images
+
+Other tips
+- Add ?ref to links to other sites. They'll see in their analytics we're linking to them and might link back.
